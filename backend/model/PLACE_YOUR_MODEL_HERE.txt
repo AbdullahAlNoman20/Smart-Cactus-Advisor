@@ -1,0 +1,24 @@
+PUT YOUR DOWNLOADED .keras MODEL FILE IN THIS FOLDER.
+
+Steps:
+1. In Colab, after the "Model Comparison & Best Model Selection" cell runs,
+   your best model is saved to Google Drive at:
+   /content/drive/MyDrive/Dataset/models/smart_cactus_advisor_best_model.keras
+
+2. Open Google Drive in your browser, find that file, and download it
+   to your computer.
+
+3. Move / copy the downloaded file into this exact folder
+   (backend/model/), and make sure it is named exactly:
+       smart_cactus_advisor_best_model.keras
+
+4. Delete this PLACE_YOUR_MODEL_HERE.txt file (optional, not required).
+
+5. Open backend/config.py and set BEST_MODEL_PREPROCESSOR to match
+   whichever architecture actually won ("densenet", "resnet50",
+   "efficientnet", "mobilenet_v3", or "custom"). It is set to
+   "densenet" by default because DenseNet121 was the best model in
+   the notebook run described in the documentation.
+
+That's it — no other code changes are needed. See the root README.md
+for how to install dependencies and run the project.

@@ -1,0 +1,62 @@
+{
+  "Ball_Cactus": {
+    "scientific_name": "Parodia magnifica",
+    "botanical_family": "Cactaceae",
+    "medicinal_benefit": "No well-established medicinal use; primarily ornamental.",
+    "environmental_benefit": "Low water consumption; suitable for xeriscaping; contributes to sustainable landscaping.",
+    "ecological_importance": "Supports biodiversity in arid environments and provides habitat for small insects.",
+    "human_uses": "Ornamental decoration, indoor gardening, botanical collections.",
+    "water_requirement": "Low; water only when soil is completely dry.",
+    "sunlight_requirement": "Full Sun to Bright Indirect Light.",
+    "toxicity": "Non-toxic to humans and pets; sharp spines may cause physical injury.",
+    "care_guide": "Use well-drained cactus soil, avoid overwatering, provide adequate sunlight and ventilation."
+  },
+  "Bunny_Ear_Cactus": {
+    "scientific_name": "Opuntia microdasys",
+    "botanical_family": "Cactaceae",
+    "medicinal_benefit": "Limited traditional medicinal use; scientific evidence is insufficient.",
+    "environmental_benefit": "Excellent drought tolerance; reduces landscape water consumption and helps prevent soil erosion.",
+    "ecological_importance": "Provides shelter for insects and contributes to arid ecosystem stability.",
+    "human_uses": "Ornamental plant, educational collections, xeriscape landscaping.",
+    "water_requirement": "Low; drought tolerant.",
+    "sunlight_requirement": "Full Sun.",
+    "toxicity": "Glochid spines can cause skin irritation and eye injury; not recommended for handling without protection.",
+    "care_guide": "Grow in sandy, well-drained soil; avoid excessive moisture; wear gloves when handling."
+  },
+  "Chin_Cactus": {
+    "scientific_name": "Gymnocalycium mihanovichii",
+    "botanical_family": "Cactaceae",
+    "medicinal_benefit": "No scientifically validated medicinal applications reported.",
+    "environmental_benefit": "Requires minimal irrigation; suitable for water-efficient ornamental landscaping.",
+    "ecological_importance": "Supports conservation of succulent biodiversity and attracts pollinating insects during flowering.",
+    "human_uses": "Indoor decoration, ornamental gardening, collector plant.",
+    "water_requirement": "Low to Moderate.",
+    "sunlight_requirement": "Bright Indirect Light to Partial Sun.",
+    "toxicity": "Non-toxic; spines may cause minor injuries.",
+    "care_guide": "Maintain dry soil between watering, provide good drainage, avoid prolonged direct scorching sunlight."
+  },
+  "Easter_Lily_Cactus": {
+    "scientific_name": "Echinopsis oxygona",
+    "botanical_family": "Cactaceae",
+    "medicinal_benefit": "No confirmed medicinal use supported by current scientific literature.",
+    "environmental_benefit": "Water-efficient ornamental species suitable for sustainable gardens.",
+    "ecological_importance": "Large flowers attract bees, butterflies, and other pollinators, supporting local biodiversity.",
+    "human_uses": "Ornamental landscaping, home gardening, flowering cactus collections.",
+    "water_requirement": "Low.",
+    "sunlight_requirement": "Full Sun to Partial Sun.",
+    "toxicity": "Generally non-toxic; spines may cause puncture wounds.",
+    "care_guide": "Use porous cactus soil, water sparingly, increase watering slightly during flowering season."
+  },
+  "Starfish_Cactus": {
+    "scientific_name": "Stapelia grandiflora",
+    "botanical_family": "Apocynaceae",
+    "medicinal_benefit": "Traditionally used in some regions for minor folk remedies; scientific evidence remains limited and inconclusive.",
+    "environmental_benefit": "Adapted to dry climates and requires very little irrigation.",
+    "ecological_importance": "Its flowers attract carrion flies, which contribute to specialized pollination ecology.",
+    "human_uses": "Ornamental succulent, botanical education, collector plant.",
+    "water_requirement": "Low.",
+    "sunlight_requirement": "Bright Indirect Light to Partial Sun.",
+    "toxicity": "Generally considered non-toxic, but ingestion is not recommended; unpleasant flower odor attracts pollinators.",
+    "care_guide": "Provide excellent drainage, avoid waterlogging, ensure warm temperatures and good air circulation."
+  }
+}
