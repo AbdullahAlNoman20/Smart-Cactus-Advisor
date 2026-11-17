@@ -1,0 +1,4 @@
+# .gitignore  (project root, optional)
+.portable/
+frontend/node_modules/
+frontend/build/
